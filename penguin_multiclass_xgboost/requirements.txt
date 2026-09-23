@@ -1,0 +1,8 @@
+chromadb==1.5.9
+PyMuPDF==1.28.2
+langchain-text-splitters==1.1.2
+onnxruntime>=1.28,<2
+
+# Optional, only for locally generated answers (retrieval works without these):
+# transformers==5.15.0
+# torch==2.10.0
